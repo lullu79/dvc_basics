@@ -1,1 +1,4 @@
-
+[core]
+    remote = storage
+['remote "storage"']
+    url = gs://ondot-ai/remote_dvc
