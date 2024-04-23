@@ -1,4 +1,4 @@
 [core]
     remote = storage
 ['remote "storage"']
-    url = gs://ondot-ai/remote_dvc
+    url = gdrive://1iGy3SSQa4Ccse6Z60bO1u90OX14i9CZI
